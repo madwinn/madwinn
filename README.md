@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Maddox Winnfield.
+- 👋 Hi, I’m Asım Coşkun.
 - 👀 I’m interested in coding, software developing and computers in general.
 - 🌱 I’m currently learning JavaScript...
 - 📫 To reach me you can send a mail to this e-mail adress madwinnfield@gmail.com
