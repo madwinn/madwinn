@@ -25,10 +25,7 @@
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=H02c4n&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=H02c4n&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=H02c4n&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
 
 <!---
 madwinn/madwinn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
