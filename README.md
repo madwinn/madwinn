@@ -37,7 +37,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madwinn&theme=vision-friendly-dark&hide_border=true" alt="madwinn" /></p>
 
-[![Price's github activity graph](https://activity-graph.herokuapp.com/graph?username=madwinn&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!---
 madwinn/madwinn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
