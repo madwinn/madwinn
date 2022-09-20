@@ -8,9 +8,9 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=madwinn&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
 
-- 🔭 I’m currently studying at Clarusway.
-- 🔭 I’m currently working on HTML & CSS & JAVASCRIPT
-- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/as%C4%B1m-co%C5%9Fkun-8a94a7246/)
+ 🔭 I’m currently studying at Clarusway.
+ 🔭 I’m currently working on HTML & CSS & JAVASCRIPT
+ 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/as%C4%B1m-co%C5%9Fkun-8a94a7246/)
 </br>
 
 ## 🌐 Socials:
@@ -22,8 +22,11 @@
   
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=madwinn&theme=vision-friendly-dark&hide_border=true&show_icons=true&locale=en&layout=compact" alt="madwinn" /></p> 
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madwinn&t&theme=vision-friendly-dark&hide_border=true&show_icons=true&locale=en" alt="madwinn" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madwinn&theme=vision-friendly-dark&hide_border=true" alt="madwinn" /></p>
 
+[![Price's github activity graph](https://activity-graph.herokuapp.com/graph?username=madwinn&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!---
 madwinn/madwinn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
