@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://iili.io/P4ABkb.png" alt="P4ABkb.png" border="0" />
+<p> <img src="https://komarev.com/ghpvc/?username=madwinn&label=Profile%20views&color=0e75b6&style=flat" alt="madwinn" /> </p>
+
 ### Hi there I'm Asım 👋
 
 ## Full Stack Developer
