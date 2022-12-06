@@ -8,7 +8,7 @@
 <p> <img src="https://komarev.com/ghpvc/?username=madwinn&label=Profile%20views&color=0e75b6&style=flat" alt="madwinn" /> </p>
 
 - 🔭 I’m currently studying at Clarusway.
-- 🔭 I’m currently working on TypeScript
+- 🔭 I’m currently working on Python
 - 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/as%C4%B1m-co%C5%9Fkun-8a94a7246/)
 </br>
 
